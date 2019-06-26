@@ -2,7 +2,7 @@
 
 While learning a new technology or framework, I always like to build small but well covering Proof Of Concept application. It is even better if one can combine several new technologies into such a project. This is description of one such project. Single page web app using RavenDB, WebAPI, KnockoutJS, Bootstrap, D3JS. Available on GitHub
 
-![alt funny jerry](https://raw.githubusercontent.com/funnyjerry/react-native-youtub-app/master/screen.png)
+![alt funny jerry](https://raw.githubusercontent.com/funnyjerry/D3-University/master/screen.png)
 
 
 # The Use Case
@@ -23,4 +23,4 @@ KoExtensions - very small set of tools which I have created, allowing easy creat
 The architecture is visualized in the following diagram. The backend is composed of MVC application, which exposes several API controllers. These controllers talk directly to the database through RavenDB IDocumentSession interface. The REST services are invoked by ViewModel code written in JavaScript. The content of the ViewModels is bound the view using Knockout. 
 
 
-![alt funny jerry](https://raw.githubusercontent.com/funnyjerry/react-native-youtub-app/master/architecture.png)
+![alt funny jerry](https://raw.githubusercontent.com/funnyjerry/D3-University/master/architecture.png)
