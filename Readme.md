@@ -1,4 +1,4 @@
-# Sample application: RavenDB, KnockoutJS, Bootstrap and more
+# Sample application: RavenDB, KnockoutJS, Bootstrap and more with Eugene
 
 While learning a new technology or framework, I always like to build small but well covering Proof Of Concept application. It is even better if one can combine several new technologies into such a project. This is description of one such project. Single page web app using RavenDB, WebAPI, KnockoutJS, Bootstrap, D3JS. Available on GitHub
 
