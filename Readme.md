@@ -1,8 +1,8 @@
-# Sample application: RavenDB, KnockoutJS, Bootstrap and more with Kingofdevs
+# Sample application: RavenDB, KnockoutJS, Bootstrap and more with cocadev 1
 
 While learning a new technology or framework, I always like to build small but well covering Proof Of Concept application. It is even better if one can combine several new technologies into such a project. This is description of one such project. Single page web app using RavenDB, WebAPI, KnockoutJS, Bootstrap, D3JS. Available on GitHub
 
-![alt funny jerry](https://raw.githubusercontent.com/kingofdevs/D3-University/master/screenshots/screen.png)
+![alt funny jerry](https://raw.githubusercontent.com/cocadev/D3-University/master/screenshots/screen.png)
 
 
 # The Use Case
